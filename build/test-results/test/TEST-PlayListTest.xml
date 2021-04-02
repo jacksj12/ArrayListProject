@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PlayListTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2021-04-02T22:13:12" hostname="DESKTOP-AAONRLB" time="0.008">
+  <properties/>
+  <testcase name="testAverageRating" classname="PlayListTest" time="0.001"/>
+  <testcase name="testGetArtist" classname="PlayListTest" time="0.0"/>
+  <testcase name="testGetSongs" classname="PlayListTest" time="0.0"/>
+  <testcase name="testGetSongsArtist" classname="PlayListTest" time="0.001"/>
+  <testcase name="testGetStars" classname="PlayListTest" time="0.0"/>
+  <testcase name="testRemoveArtist" classname="PlayListTest" time="0.0"/>
+  <testcase name="testRemoveSong" classname="PlayListTest" time="0.0"/>
+  <testcase name="testSwap1" classname="PlayListTest" time="0.0"/>
+  <testcase name="testSwap2" classname="PlayListTest" time="0.0"/>
+  <testcase name="testSwapParallelism1" classname="PlayListTest" time="0.0"/>
+  <testcase name="testSwapParallelism2" classname="PlayListTest" time="0.0"/>
+  <testcase name="testTestAverageRating" classname="PlayListTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

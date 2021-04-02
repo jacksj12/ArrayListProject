@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-02T15:13:12 PDT" name="Gradle suite" finished-at="2021-04-02T15:13:12 PDT" duration-ms="27">
+    <groups>
+    </groups>
+    <test started-at="2021-04-02T15:13:12 PDT" name="Gradle test" finished-at="2021-04-02T15:13:12 PDT" duration-ms="27">
+      <class name="PlayListTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:PlayListTest@7be1285b]" started-at="2021-04-02T15:13:12 PDT" name="setup" finished-at="2021-04-02T15:13:12 PDT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testAverageRating()[pri:0, instance:PlayListTest@7be1285b]" started-at="2021-04-02T15:13:12 PDT" name="testAverageRating" finished-at="2021-04-02T15:13:12 PDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAverageRating -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:PlayListTest@7be1285b]" started-at="2021-04-02T15:13:12 PDT" name="setup" finished-at="2021-04-02T15:13:12 PDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testGetArtist()[pri:0, instance:PlayListTest@7be1285b]" started-at="2021-04-02T15:13:12 PDT" name="testGetArtist" finished-at="2021-04-02T15:13:12 PDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetArtist -->
+        <test-method signature="testGetSongs()[pri:0, instance:PlayListTest@7be1285b]" started-at="2021-04-02T15:13:12 PDT" name="testGetSongs" finished-at="2021-04-02T15:13:12 PDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetSongs -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:PlayListTest@7be1285b]" started-at="2021-04-02T15:13:12 PDT" name="setup" finished-at="2021-04-02T15:13:12 PDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testGetSongsArtist()[pri:0, instance:PlayListTest@7be1285b]" started-at="2021-04-02T15:13:12 PDT" name="testGetSongsArtist" finished-at="2021-04-02T15:13:12 PDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetSongsArtist -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:PlayListTest@7be1285b]" started-at="2021-04-02T15:13:12 PDT" name="setup" finished-at="2021-04-02T15:13:12 PDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:PlayListTest@7be1285b]" started-at="2021-04-02T15:13:12 PDT" name="setup" finished-at="2021-04-02T15:13:12 PDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testRemoveArtist()[pri:0, instance:PlayListTest@7be1285b]" started-at="2021-04-02T15:13:12 PDT" name="testRemoveArtist" finished-at="2021-04-02T15:13:12 PDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRemoveArtist -->
+        <test-method signature="testGetStars()[pri:0, instance:PlayListTest@7be1285b]" started-at="2021-04-02T15:13:12 PDT" name="testGetStars" finished-at="2021-04-02T15:13:12 PDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetStars -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:PlayListTest@7be1285b]" started-at="2021-04-02T15:13:12 PDT" name="setup" finished-at="2021-04-02T15:13:12 PDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:PlayListTest@7be1285b]" started-at="2021-04-02T15:13:12 PDT" name="setup" finished-at="2021-04-02T15:13:12 PDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testRemoveSong()[pri:0, instance:PlayListTest@7be1285b]" started-at="2021-04-02T15:13:12 PDT" name="testRemoveSong" finished-at="2021-04-02T15:13:12 PDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRemoveSong -->
+        <test-method signature="testSwap1()[pri:0, instance:PlayListTest@7be1285b]" started-at="2021-04-02T15:13:12 PDT" name="testSwap1" finished-at="2021-04-02T15:13:12 PDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSwap1 -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:PlayListTest@7be1285b]" started-at="2021-04-02T15:13:12 PDT" name="setup" finished-at="2021-04-02T15:13:12 PDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testSwap2()[pri:0, instance:PlayListTest@7be1285b]" started-at="2021-04-02T15:13:12 PDT" name="testSwap2" finished-at="2021-04-02T15:13:12 PDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSwap2 -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:PlayListTest@7be1285b]" started-at="2021-04-02T15:13:12 PDT" name="setup" finished-at="2021-04-02T15:13:12 PDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testSwapParallelism1()[pri:0, instance:PlayListTest@7be1285b]" started-at="2021-04-02T15:13:12 PDT" name="testSwapParallelism1" finished-at="2021-04-02T15:13:12 PDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSwapParallelism1 -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:PlayListTest@7be1285b]" started-at="2021-04-02T15:13:12 PDT" name="setup" finished-at="2021-04-02T15:13:12 PDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testSwapParallelism2()[pri:0, instance:PlayListTest@7be1285b]" started-at="2021-04-02T15:13:12 PDT" name="testSwapParallelism2" finished-at="2021-04-02T15:13:12 PDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSwapParallelism2 -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:PlayListTest@7be1285b]" started-at="2021-04-02T15:13:12 PDT" name="setup" finished-at="2021-04-02T15:13:12 PDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:PlayListTest@7be1285b]" started-at="2021-04-02T15:13:12 PDT" name="setup" finished-at="2021-04-02T15:13:12 PDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testTestAverageRating()[pri:0, instance:PlayListTest@7be1285b]" started-at="2021-04-02T15:13:12 PDT" name="testTestAverageRating" finished-at="2021-04-02T15:13:12 PDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTestAverageRating -->
+      </class> <!-- PlayListTest -->
+    </test> <!-- Gradle test -->
+  </suite> <!-- Gradle suite -->
+</testng-results>
