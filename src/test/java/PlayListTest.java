@@ -133,7 +133,7 @@ public class PlayListTest {
     public void testSortByRating() {
         PlayList ansList = popList.sortByRating();
         ArrayList<Song> allSongs = ansList.getSongs();
-        Song[] arrAllSongs = {memories,holy, girlLikeYou, danceMonkey, peaches, fridayRB, girlLikeYou_cover};
+        Song[] arrAllSongs = {girlLikeYou, holy, memories, danceMonkey, peaches, fridayRB, girlLikeYou_cover};
         List<Song> allSongsAns = Arrays.asList(arrAllSongs);
         assertEquals(allSongs, allSongsAns);
     }
