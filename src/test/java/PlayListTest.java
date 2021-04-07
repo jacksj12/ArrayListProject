@@ -1,5 +1,4 @@
 import static org.testng.Assert.*;
-
 import org.testng.annotations.*;
 
 import java.util.*;
@@ -128,5 +127,23 @@ public class PlayListTest {
         Song[] arrAllSongs = {girlLikeYou, fridayRB, girlLikeYou_cover, memories, danceMonkey};
         List<Song> allSongsAns = Arrays.asList(arrAllSongs);
         assertEquals(allSongs, allSongsAns);
+    }
+    
+        @Test
+    public void testSortByRating() {
+        PlayList ansList = popList.sortByRating();
+        ArrayList<Song> allSongs = ansList.getSongs();
+        Song[] arrAllSongs = {memories,holy, girlLikeYou, danceMonkey, peaches, fridayRB, girlLikeYou_cover};
+        List<Song> allSongsAns = Arrays.asList(arrAllSongs);
+        assertEquals(allSongs, allSongsAns);
+    }
+
+    @Test
+    public void testShuffle() {
+        PlayList ansList = popList.shuffle();
+        ArrayList<Song> allSongs = ansList.getSongs();
+        Song[] arrAllSongs = {girlLikeYou, fridayRB, holy, peaches, girlLikeYou_cover, memories, danceMonkey};
+        List<Song> allSongsAns = Arrays.asList(arrAllSongs);
+        assertTrue(allSongs.size() == allSongsAns.size() && !(allSongsAns.equals(allSongs)));
     }
 }
